@@ -1,0 +1,290 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Gerald",
+                "last": "Sanders"
+            },
+            "location": {
+                "street": {
+                    "number": 6191,
+                    "name": "Pearse Street"
+                },
+                "city": "Loughrea",
+                "state": "Roscommon",
+                "country": "Ireland",
+                "postcode": 44173,
+                "coordinates": {
+                    "latitude": "17.9087",
+                    "longitude": "-48.4521"
+                },
+                "timezone": {
+                    "offset": "-7:00",
+                    "description": "Mountain Time (US & Canada)"
+                }
+            },
+            "email": "gerald.sanders@example.com",
+            "login": {
+                "uuid": "6d29a9c6-b858-4d75-95e5-bbe3ae1186da",
+                "username": "tinyfrog761",
+                "password": "erotica",
+                "salt": "UFvI1Et1",
+                "md5": "8f2bc2b43dd400a02f25a6ad248cb91e",
+                "sha1": "d110f630b1e9cfde223f57e6f82c769f1b713032",
+                "sha256": "30e12e5310f974bc966dc186d9ec717085992f7254c3c43f73e8fa7fe4d29e43"
+            },
+            "dob": {
+                "date": "1983-10-03T00:27:58.828Z",
+                "age": 39
+            },
+            "registered": {
+                "date": "2018-06-05T04:37:44.948Z",
+                "age": 4
+            },
+            "phone": "051-911-5486",
+            "cell": "081-870-0870",
+            "id": {
+                "name": "PPS",
+                "value": "6190061T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/22.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+            },
+            "nat": "IE"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Enola",
+                "last": "Bourgeois"
+            },
+            "location": {
+                "street": {
+                    "number": 297,
+                    "name": "Place de la Mairie"
+                },
+                "city": "Nantes",
+                "state": "Haute-Loire",
+                "country": "France",
+                "postcode": 46045,
+                "coordinates": {
+                    "latitude": "69.4937",
+                    "longitude": "98.2158"
+                },
+                "timezone": {
+                    "offset": "+6:00",
+                    "description": "Almaty, Dhaka, Colombo"
+                }
+            },
+            "email": "enola.bourgeois@example.com",
+            "login": {
+                "uuid": "11dc092e-1191-47c5-9ec0-49663589cc6c",
+                "username": "brownfrog184",
+                "password": "rachelle",
+                "salt": "pvGKUXBV",
+                "md5": "d97d762cba16a1a5381518d76d07678d",
+                "sha1": "1c0c42e51bdefabd227ec0a21a0ac6575c57afe7",
+                "sha256": "d0aa80d00f64f8e57ba4c74b40b520a02bd52b2203917b16d31adc48653e7561"
+            },
+            "dob": {
+                "date": "1966-08-30T02:31:42.008Z",
+                "age": 56
+            },
+            "registered": {
+                "date": "2016-12-14T00:40:31.906Z",
+                "age": 6
+            },
+            "phone": "02-73-59-95-54",
+            "cell": "06-02-00-71-12",
+            "id": {
+                "name": "INSEE",
+                "value": "2NNaN18686683 17"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/59.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+            },
+            "nat": "FR"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Martha",
+                "last": "Barrett"
+            },
+            "location": {
+                "street": {
+                    "number": 1828,
+                    "name": "Church Road"
+                },
+                "city": "Stirling",
+                "state": "South Glamorgan",
+                "country": "United Kingdom",
+                "postcode": "BV9J 5WU",
+                "coordinates": {
+                    "latitude": "41.8007",
+                    "longitude": "-89.2425"
+                },
+                "timezone": {
+                    "offset": "+11:00",
+                    "description": "Magadan, Solomon Islands, New Caledonia"
+                }
+            },
+            "email": "martha.barrett@example.com",
+            "login": {
+                "uuid": "516d95c6-8ef8-4961-810b-3232dac99d52",
+                "username": "purplepeacock487",
+                "password": "olivia",
+                "salt": "IGa55OLG",
+                "md5": "e3261301b6f2729ecb15b2da2f966a95",
+                "sha1": "430351050bf328b3047ab2adbe4953aedca2875d",
+                "sha256": "f11ff878a6b8be1fc0eee77b7f055123b28616c67c6f4e3ca928afb6294fb653"
+            },
+            "dob": {
+                "date": "1949-05-18T07:48:27.910Z",
+                "age": 73
+            },
+            "registered": {
+                "date": "2011-08-24T16:02:42.840Z",
+                "age": 11
+            },
+            "phone": "016973 76000",
+            "cell": "0705-840-111",
+            "id": {
+                "name": "NINO",
+                "value": "JY 53 33 55 D"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/27.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+            },
+            "nat": "GB"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Vitório",
+                "last": "Monteiro"
+            },
+            "location": {
+                "street": {
+                    "number": 2431,
+                    "name": "Avenida Brasil "
+                },
+                "city": "Guarujá",
+                "state": "Mato Grosso",
+                "country": "Brazil",
+                "postcode": 94132,
+                "coordinates": {
+                    "latitude": "71.8332",
+                    "longitude": "29.5479"
+                },
+                "timezone": {
+                    "offset": "+9:00",
+                    "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+                }
+            },
+            "email": "vitorio.monteiro@example.com",
+            "login": {
+                "uuid": "ca07f22d-c588-40ee-a98a-ab6184063e20",
+                "username": "ticklishdog106",
+                "password": "comics",
+                "salt": "HWKBCMfV",
+                "md5": "d091d0ea404d9e7010dbb103714bc02d",
+                "sha1": "b09f26d7b56fac63228ffc562b4ad5f9b4fce565",
+                "sha256": "fcf530dd8f76ecdec2277b46951fa5951d2f13308810f8fa29d5068a51073b70"
+            },
+            "dob": {
+                "date": "1978-07-14T14:33:05.586Z",
+                "age": 44
+            },
+            "registered": {
+                "date": "2007-10-26T12:28:53.557Z",
+                "age": 15
+            },
+            "phone": "(88) 6611-3601",
+            "cell": "(38) 8875-6518",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/10.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+            },
+            "nat": "BR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Mehmet",
+                "last": "Finke"
+            },
+            "location": {
+                "street": {
+                    "number": 1315,
+                    "name": "Goethestraße"
+                },
+                "city": "Kandern",
+                "state": "Baden-Württemberg",
+                "country": "Germany",
+                "postcode": 56159,
+                "coordinates": {
+                    "latitude": "78.8246",
+                    "longitude": "-165.4519"
+                },
+                "timezone": {
+                    "offset": "+5:45",
+                    "description": "Kathmandu"
+                }
+            },
+            "email": "mehmet.finke@example.com",
+            "login": {
+                "uuid": "1c23843d-588b-419e-a8f9-70b13aca2f44",
+                "username": "smallpeacock310",
+                "password": "michel",
+                "salt": "KlSZqZRa",
+                "md5": "e52e32ffef0ba4eba658791d1ac3bb6a",
+                "sha1": "8c87ec6ae3e8825a46db4dd635b7ba99a485574d",
+                "sha256": "bdc7f0b99da501e48e60b1e1cdb065b20bbaa97d8f33114236216dd5eddcc60c"
+            },
+            "dob": {
+                "date": "1958-02-28T09:45:22.815Z",
+                "age": 64
+            },
+            "registered": {
+                "date": "2009-07-15T13:37:50.527Z",
+                "age": 13
+            },
+            "phone": "0649-8286246",
+            "cell": "0176-1698520",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/21.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+            },
+            "nat": "DE"
+        }
+    ],
+    "info": {
+        "seed": "4531c215763f45ff",
+        "results": 5,
+        "page": 1,
+        "version": "1.3"
+    }
+}
